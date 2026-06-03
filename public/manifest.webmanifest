@@ -1,0 +1,8 @@
+{
+  "name":"CineVerse",
+  "short_name":"CineVerse",
+  "display":"standalone",
+  "theme_color":"#0f0f0f",
+  "background_color":"#0f0f0f",
+  "start_url":"/"
+}
