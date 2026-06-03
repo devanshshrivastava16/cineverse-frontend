@@ -99,7 +99,7 @@ export default function CineBot() {
   };
 
   return (
-    <div className="min-h-[80vh] flex flex-col bg-[#0a0a0a] text-white font-sans max-w-4xl mx-auto border border-white/10 rounded-2xl overflow-hidden shadow-2xl mt-8">
+    <div className="h-[80vh] flex flex-col bg-[#0a0a0a] text-white font-sans max-w-4xl mx-auto border border-white/10 rounded-2xl overflow-hidden shadow-2xl mt-8">
       
       {/* --- HEADER --- */}
       <div className="bg-white/5 backdrop-blur-md border-b border-white/10 p-5 flex items-center justify-between z-10">
